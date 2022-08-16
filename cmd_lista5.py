@@ -11,5 +11,5 @@ lista=[1,4,7]
 
 
 #saída
-for i in list(range(3)):
-    print(f"o elemento {i+1} da lista é {lista[i]}")
+for elemento in lista:
+    print(f"o elemento da lista é {elemento}")
